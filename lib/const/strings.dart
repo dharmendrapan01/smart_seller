@@ -22,9 +22,14 @@ messages = "Messages",
 editProfile = "Edit Profile",
 featured = "Featured",
 edit = "Edit",
+save = "Save",
+confirmPass = "Confirm Password",
+chats = "Chats",
 remove = "Remove",
 loginTo = "Login to your account",
+name = "Username",
 credit = "@DharmendraDevs";
 
+
 // shop settings string
-const nameHint = "eg. Vendor Name", shopDscHint = "Enter your shop description", shopWebsiteHint = "eg. vendor.emart.com", shopMobileHint = "eg. +91254695874", shopAddressHint = "eg. Shona Road", description = "Description", mobile = "Shop Mobile", website = "Shop Website", name = "Shop Name", address = "Shop Address";
+const nameHint = "eg. Vendor Name", shopDscHint = "Enter your shop description", shopWebsiteHint = "eg. vendor.emart.com", shopMobileHint = "eg. +91254695874", shopAddressHint = "eg. Shona Road", description = "Description", mobile = "Shop Mobile", website = "Shop Website", shopName = "Shop Name", address = "Shop Address";
